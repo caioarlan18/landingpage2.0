@@ -1,9 +1,10 @@
 import './App.css';
-
+import { Main } from './components/onePage/Main';
 function App() {
   return (
     <div >
-      <h1>Ola mundo</h1>
+
+      <Main />
     </div>
   );
 }
