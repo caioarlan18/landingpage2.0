@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/landingpage2.0/static/css/main.ff5f9c32.css",
-    "main.js": "/landingpage2.0/static/js/main.04afebcb.js",
+    "main.css": "/landingpage2.0/static/css/main.34057002.css",
+    "main.js": "/landingpage2.0/static/js/main.dcf2ceb6.js",
     "static/js/787.2ecc4da0.chunk.js": "/landingpage2.0/static/js/787.2ecc4da0.chunk.js",
     "static/media/videomobile.mp4": "/landingpage2.0/static/media/videomobile.93321222b7ff2a56209c.mp4",
     "static/media/bannermobile.jpg": "/landingpage2.0/static/media/bannermobile.d95d9403c48228b73575.jpg",
+    "static/media/bannerdesktop.jpg": "/landingpage2.0/static/media/bannerdesktop.4c2431ab511c757737ad.jpg",
     "static/media/bannervendamobile.jpg": "/landingpage2.0/static/media/bannervendamobile.83f39fd2c7bc31e35bbd.jpg",
     "static/media/bannerusabilidade.webp": "/landingpage2.0/static/media/bannerusabilidade.d676905e9b621b2d9f77.webp",
     "static/media/checkoutseguro.png": "/landingpage2.0/static/media/checkoutseguro.d8f38419c4b8fcc22714.png",
     "index.html": "/landingpage2.0/index.html",
-    "main.ff5f9c32.css.map": "/landingpage2.0/static/css/main.ff5f9c32.css.map",
-    "main.04afebcb.js.map": "/landingpage2.0/static/js/main.04afebcb.js.map",
+    "main.34057002.css.map": "/landingpage2.0/static/css/main.34057002.css.map",
+    "main.dcf2ceb6.js.map": "/landingpage2.0/static/js/main.dcf2ceb6.js.map",
     "787.2ecc4da0.chunk.js.map": "/landingpage2.0/static/js/787.2ecc4da0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff5f9c32.css",
-    "static/js/main.04afebcb.js"
+    "static/css/main.34057002.css",
+    "static/js/main.dcf2ceb6.js"
   ]
 }
